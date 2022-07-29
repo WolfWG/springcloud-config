@@ -1,2 +1,2 @@
 # springcloud-config
-springcloud第一次测试
+springcloud仓库
