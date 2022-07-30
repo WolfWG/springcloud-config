@@ -23,9 +23,9 @@ spring:
     driver-class-name: com.mysql.jdbc.Driver #数据库驱动
     url: jdbc:mysql://localhost:3306/springcloud1?useUnicode=true&characterEncoding=utf-8&servetTimeZone=Asia/Shanghai
     username: root
-    password: 12345678
+    password: 04265315
 
-#Eureka的配置。 服务注册到Eureka中，需要一个路径地址
+#Eurekamy的配置。 服务注册到Eureka中，需要一个路径地址
 eureka:
   client:
     service-url:
@@ -60,7 +60,7 @@ spring:
     driver-class-name: com.mysql.jdbc.Driver #数据库驱动
     url: jdbc:mysql://localhost:3306/springcloud2?useUnicode=true&characterEncoding=utf-8&servetTimeZone=Asia/Shanghai
     username: root
-    password: 12345678
+    password: 04265315
 
 #Eureka的配置。 服务注册到Eureka中，需要一个路径地址
 eureka:
